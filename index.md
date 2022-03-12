@@ -21,7 +21,7 @@ happy_yelena <- image_read("https://cdn.realsport101.com/images/ncavvykf/epicstr
 devastated_yelena <- image_read("https://shogi-pineapple.com/wp-content/uploads/2022/01/Attack-On-Titan-Season-4-Just-Jumpscared-Everyone-Including-Armin.png") %>%
   image_scale(400)
 
-Here is the `R` code I used to produce this meme!
+Here is the `R` code I used to produce this meme:
 
 happy_text <- image_blank(width = 300,
                           height = 240,
@@ -53,3 +53,5 @@ meme <- c(first_row, second_row) %>%
 
 image_write(meme,"my_meme.png")
 ```
+
+Here's where you can find more information about (***Attack on Titan***)[https://www.imdb.com/title/tt2560140/]
