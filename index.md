@@ -54,3 +54,9 @@ image_write(meme,"my_meme.png")
 
 * Here's where you can find more information about [**Attack on Titan**](https://www.imdb.com/title/tt2560140/).
 * Info on [**R**](https://en.wikipedia.org/wiki/R_(programming_language)).
+
+
+Happy coding folks! 
+
+ ![Tux, the Linux mascot](https://static.wikia.nocookie.net/049e8329-b91f-4ccb-b44c-d0c1094591f1/scale-to-width/755)
+
