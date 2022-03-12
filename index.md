@@ -1,3 +1,11 @@
+# Hi!
+
+## Welcome to my website.
+
+## I made this meme combining my coding skils with my love for *Attack on Titan*. It depicts one of the character Yelena's most iconic faces and is an adaptation of an existing meme format. 
+
+
+
 Your index.md file needs contain information about the meme you created, for example, what the motivation was, and how your meme is new/original (e.g. an adaption of an existing meme format).
 
 ![](my_meme.png)
