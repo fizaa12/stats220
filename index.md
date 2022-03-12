@@ -21,7 +21,7 @@ happy_yelena <- image_read("https://cdn.realsport101.com/images/ncavvykf/epicstr
 devastated_yelena <- image_read("https://shogi-pineapple.com/wp-content/uploads/2022/01/Attack-On-Titan-Season-4-Just-Jumpscared-Everyone-Including-Armin.png") %>%
   image_scale(400)
 
-
+Here is the `R` code I used to produce this meme!
 
 happy_text <- image_blank(width = 300,
                           height = 240,
