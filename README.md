@@ -1,4 +1,6 @@
 # stats220
-https://github.com/fizaa12
-The purpose of this repository is to store all files related to my Statistics 220 course Assignment 1.
-![](my_meme.png)
+This is my Stats 220 Assignment 1 repository.
+I will use this to store all files related to my assignment.
+You can follow me on https://github.com/fizaa12
+You can also check out my assignment 1 website.
+
