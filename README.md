@@ -1,5 +1,5 @@
 # stats220
-This is my Stats 220 Assignment 1 repository.
+> This is my Stats 220 Assignment 1 repository.
 
  *I will use this to store all files related to my assignment.*
 * You can follow me on ✨[fizaa12](https://github.com/fizaa12)✨.
