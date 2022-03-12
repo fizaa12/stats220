@@ -10,6 +10,8 @@ The two characters in this meme are
 
 1. Yelena
 2. Armin
+
+
 library(magick)
 happy_yelena <- image_read("https://cdn.realsport101.com/images/ncavvykf/epicstream/97014c7e563ef6b21bf5512022e4168617db67a6-1920x1080.png?rect=0,0,1919,1080&w=686&h=386&auto=format&dpr=2") %>%
   image_scale(400) 
