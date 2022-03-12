@@ -58,5 +58,5 @@ image_write(meme,"my_meme.png")
 
 Happy coding folks! 
 
- ![Tux, the Linux mascot](https://static.wikia.nocookie.net/049e8329-b91f-4ccb-b44c-d0c1094591f1/scale-to-width/755)
+ ![Smiling Eren](https://static.wikia.nocookie.net/049e8329-b91f-4ccb-b44c-d0c1094591f1/scale-to-width/755)
 
