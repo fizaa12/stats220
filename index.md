@@ -11,7 +11,7 @@ The two characters in this meme are
 1. Yelena 
 2. Armin
 
-
+Here is the `R` code I used to produce the meme.
 
 ```r
 library(magick)
