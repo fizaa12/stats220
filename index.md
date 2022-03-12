@@ -56,7 +56,7 @@ image_write(meme,"my_meme.png")
 * Info on [**R**](https://en.wikipedia.org/wiki/R_(programming_language)).
 
 
-#Happy coding folks! 
+# Happy coding folks! 
 
  ![Smiling Eren](https://static.wikia.nocookie.net/049e8329-b91f-4ccb-b44c-d0c1094591f1/scale-to-width/755)
 
