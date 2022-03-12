@@ -4,10 +4,6 @@
 
 I made this meme combining my coding skils with my love for *Attack on Titan*. It depicts one of the character Yelena's most iconic faces and is an adaptation of an existing meme format. 
 
-
-
-Your index.md file needs contain information about the meme you created, for example, what the motivation was, and how your meme is new/original (e.g. an adaption of an existing meme format).
-
 ![](my_meme.png)
 library(magick)
 happy_yelena <- image_read("https://cdn.realsport101.com/images/ncavvykf/epicstream/97014c7e563ef6b21bf5512022e4168617db67a6-1920x1080.png?rect=0,0,1919,1080&w=686&h=386&auto=format&dpr=2") %>%
