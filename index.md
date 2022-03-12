@@ -1,6 +1,6 @@
 # Hi!
 
-## Welcome to my website 🌸
+## 🌸 Welcome to my website 🌸
 
 ## I made this meme combining my coding skils with my love for *Attack on Titan*. It depicts one of the character Yelena's most iconic faces and is an adaptation of an existing meme format. 
 
