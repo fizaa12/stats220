@@ -2,14 +2,16 @@
 
 ## 🌸 Welcome to my website 🌸
 
-I made this meme combining my coding skils with my love for **Attack on Titan**. It depicts one of the character's most iconic faces and is an adaptation of an existing meme format. 
+I made this meme combining my coding skils with my love for ***Attack on Titan***. It depicts one of the character's most iconic faces and is an adaptation of an existing meme format. 
 
 ![](my_meme.png)
 
 The two characters in this meme are
 
-1. Yelena
+1. Yelena 
 2. Armin
+
+
 
 
 library(magick)
