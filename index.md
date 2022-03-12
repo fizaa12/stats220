@@ -54,4 +54,5 @@ meme <- c(first_row, second_row) %>%
 image_write(meme,"my_meme.png")
 ```
 
-* Here's where you can find more information about [**Attack on Titan**](https://www.imdb.com/title/tt2560140/)
+* Here's where you can find more information about [**Attack on Titan**](https://www.imdb.com/title/tt2560140/).
+* Info on [**R**](https://en.wikipedia.org/wiki/R_(programming_language)).
