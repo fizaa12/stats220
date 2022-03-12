@@ -1,3 +1,4 @@
+Your index.md file needs contain information about the meme you created, for example, what the motivation was, and how your meme is new/original (e.g. an adaption of an existing meme format).
 
 ![](my_meme.png)
 library(magick)
